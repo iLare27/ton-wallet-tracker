@@ -1,0 +1,16 @@
+{
+  "name": "ton-wallet-checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iLare",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ton/ton": "^15.1.0",
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}
