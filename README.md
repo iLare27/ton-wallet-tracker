@@ -26,7 +26,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone git@github.com:yourusername/ton-wallet-tracker.git
+git clone git@github.com:iLare27/ton-wallet-tracker.git
 cd ton-wallet-tracker
 ```
 ### 2. Установка зависимостей
